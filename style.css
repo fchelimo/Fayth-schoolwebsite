@@ -1,0 +1,160 @@
+body{
+	margin:0;
+	font-family: 'handlee' ,cursive;
+	font-size: 13pt;
+	background-color: #f4f4f4;
+	padding: 0;
+	line-height: 1.5;
+	width: 77;
+
+}
+.container{
+	width:80%;
+	margin:auto;
+	overflow:hidden;
+}
+ .pyt{
+	font-size: 15pt;
+	color:black;
+	text-align: center;
+} 
+.dew h1{
+	font-size: 15pt;
+	color:white;
+	float: left;
+
+}
+h1 span{
+	 color: #e8491d;
+	 font-size: 21px;
+	 padding: 10px 25px;
+	
+}
+a{
+	text-decoration: none;
+}
+nav ul{
+	list-style: none;
+	margin: 0 auto;
+	background-color: black;
+	height: 50px
+		}
+nav ul li{
+	float: right;
+	display: inline;
+}
+nav a{
+	color: #fff; 
+	display: inline-block;
+	padding: 10px 25px;
+	}
+header{
+	border-bottom: #e8491d 3px solid;
+}
+	#showcase{
+		min-height: 400px;
+		background-image: url("") no-repeat 0 -400px; 
+		text-align: center;
+		color: black;
+	}
+	#showcase h1{
+		margin-top:100px; 
+		font-size:55px;
+		margin-bottom:10px; 
+		animation:10s linear infinite;
+	}
+	p span{
+		color: orange;
+		font-size: 20px;
+		font-style: bold;
+	}
+	#newsletter{
+		padding: auto;
+		color: #ffffff;
+		background: black;
+		 
+		}
+	#newsletter h1{ 
+		float:left; 
+
+	}
+	#newsletter form{
+		margin-top: 25px;
+		float:right;
+
+	}
+	#newsletter input[type="email"]{
+		padding: 4px;
+		height: 25px;
+		width:250px; 
+	}
+	.button_1{
+		height: 38px;
+		background: orange;
+		border: 0;
+		padding-right: 20px;
+		padding-left: 20px;
+		color:white;
+	}
+	#box{
+		margin-top: 20px;
+	}
+	#box .boxes{
+		float:left;
+		text-align: center;
+		width: 30%;
+		padding:10px;
+	} 
+	#box .boxes img{
+		width: 120px;
+
+	}
+	aside #sidebar{
+		float: right;
+		
+		
+	}
+	#main{
+		float: left;
+		width:65%;
+	}
+	.dark{
+	    padding: 10px;
+	    color:white;
+	    margin-top: 10px;
+	    margin-bottom: 10px;	
+	}
+	#dark{
+		background-color: black;
+		width: 30%;
+		float: right;
+		margin-top:20px;
+		border-radius: 5px; 	
+}
+	#dark2{
+	background-color: grey;
+		width: 30%;
+		float: right;
+		margin-top:20px;
+		border-radius: 5px; 	
+}
+
+
+	footer{
+		padding: 20px;
+		margin-bottom: 20px;
+		color: black;
+		background-color:#e8491d;
+		text-align: center;
+		height: 250px;
+	}
+	footer a{
+		color: white;
+	}
+	
+	.head{
+		background-image: url(18.jpg);
+		background-repeat: no-repeat;
+		background-size: cover;
+		background-position: center;
+	}
